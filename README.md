@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+#### My name is Marco Boucas
+
+
+**Master of Science in Engineering Student & Data Scientist**
 
 <!--
 **marcoboucas/marcoboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
