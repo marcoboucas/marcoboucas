@@ -6,10 +6,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/5fba56dd-c3e1-4bec-9596-fd1565702df9.svg)](https://wakatime.com/@5fba56dd-c3e1-4bec-9596-fd1565702df9)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoboucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paladorn)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoboucas&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paladorn" />
+</a>
 <!--
 **marcoboucas/marcoboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
