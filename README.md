@@ -12,7 +12,7 @@ https://marco.boucas.fr
 
 ___
 ## Some stats about me 😉
-
+(To be completly honest, I am mostly coding in python (AI / algorithms & all), and for pleasure a bit of web dev (nodejs/python-flask for back and React mostly for front))
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoboucas&layout=compact" />
 </a>
